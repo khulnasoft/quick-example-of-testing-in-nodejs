@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="#">
-   <img src="https://api.travis-ci.org/Lissy93/quick-example-of-testing-in-nodejs.svg" alt="Travis">
+   <img src="https://api.travis-ci.org/khulnasoft/quick-example-of-testing-in-nodejs.svg" alt="Travis">
   </a>
-  <a href="https://snyk.io/test/github/Lissy93/quick-example-of-testing-in-nodejs">
-    <img src="https://snyk.io/test/github/Lissy93/quick-example-of-testing-in-nodejs/badge.svg" alt="Known Vulnerabilities">
+  <a href="https://snyk.io/test/github/khulnasoft/quick-example-of-testing-in-nodejs">
+    <img src="https://snyk.io/test/github/khulnasoft/quick-example-of-testing-in-nodejs/badge.svg" alt="Known Vulnerabilities">
   </a>
     <a href="#">
-    <img src="http://inch-ci.org/github/Lissy93/quick-example-of-testing-in-nodejs.svg?branch=master" alt="Docs Rank">
+    <img src="http://inch-ci.org/github/khulnasoft/quick-example-of-testing-in-nodejs.svg?branch=master" alt="Docs Rank">
   </a>
-    <a href="https://www.codacy.com/gh/Lissy93/quick-example-of-testing-in-nodejs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Lissy93/quick-example-of-testing-in-nodejs">
+    <a href="https://www.codacy.com/gh/khulnasoft/quick-example-of-testing-in-nodejs/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=khulnasoft/quick-example-of-testing-in-nodejs">
     <img src="https://app.codacy.com/project/badge/Grade/3f14d24ffafe4200a643f4aba34fc2f3" alt="Code Quality">
   </a>
 </p>
@@ -50,7 +50,7 @@ you will need for the current weather.
 
 ### Installation
 - Navigate into your working directory, run the following commands:
-- ```git clone https://github.com/Lissy93/quick-example-of-testing-in-nodejs.git``` to clone repo
+- ```git clone https://github.com/khulnasoft/quick-example-of-testing-in-nodejs.git``` to clone repo
 - ```cd quick-example-of-testing-in-nodejs``` to navigate into project
 - ```npm install``` to install the dependencies
 
@@ -82,7 +82,7 @@ you will need for the current weather.
 ---
 
 <p  align="center">
-  <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2011 - 2017</i><br>
-  <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
-  <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
+  <i>© <a href="https://khulnasoft.com">KhulnaSoft</a> 2011 - 2017</i><br>
+  <i>Licensed under <a href="https://gist.github.com/khulnasoft/143d2ee01ccc5c052a17">MIT</a></i><br>
+  <a href="https://github.com/khulnasoft"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a>
 </p>
